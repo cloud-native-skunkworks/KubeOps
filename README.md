@@ -134,4 +134,7 @@ _Please see [LICENCE.md](LICENCE.md) for licence enquiries_
 
 ## What about Custom Resource Definitions?
 
-Currently the solution would be to use kubebuilder to generate CRD's and then import them either as a library or subproject into KubeOps template.
+1. Generate the CRD
+2. Either add it directly to the templated project or reference.
+
+Full example on how to write and generate a CRD here: https://github.com/AlexsJones/custom-resource-definition-example
