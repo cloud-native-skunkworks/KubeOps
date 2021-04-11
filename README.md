@@ -1,5 +1,6 @@
 <img src="image/logo_transparent.png" data-canonical-src="image/logo_transparent.png" width="300" />
 
+[![Docker](https://github.com/cloud-native-skunkworks/KubeOps/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/cloud-native-skunkworks/KubeOps/actions/workflows/docker-publish.yml)
 
 A simple programmatic Kubernetes Operator template.
 
