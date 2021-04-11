@@ -8,7 +8,7 @@ Use this to create your own Kubernetes operators with golang.
 
 - Build with KIND (Kubernetes in Docker).
 - Express custom behaviours in code - no DSL to learn.
-- Generate your CRD's with controller-runtime and import them here.
+- Generate your CRD's with controller-runtime and import them here. [Example](https://github.com/AlexsJones/custom-resource-definition-example)
 - Works with built-in kubernetes resource types and custom resource definitions ( example included ).
 - Works with Kubebuilder to write your own custom resource definitions, install them and operate with them.
 - [SlackAlerter](https://github.com/AlexsJones/slackalerter) is a complete example using this template.
